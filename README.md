@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Hello! I'm Daniel and this is me attempting to program. Oooooh, aaaaahhh. Job please.
